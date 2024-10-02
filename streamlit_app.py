@@ -6,7 +6,7 @@ from snowflake.snowpark.functions import col
 st.title(":cup_with_straw: Example Streamlit App :cup_with_straw:")
 st.write(
     """ Choose the fruits you want in your custom Smoothie!
-    """
+    """ 
 )
 
 #option = st.selectbox(
